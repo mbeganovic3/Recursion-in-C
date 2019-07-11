@@ -1,2 +1,4 @@
 # Recursion-in-C
-Matrix Multiplication, Maze Game, and Binary Pattern Generator
+* Matrix Multiplication
+* Maze Game
+* Binary Pattern Generator
